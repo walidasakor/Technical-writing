@@ -1,17 +1,17 @@
 # Lesson 2: Ticket System Research & Creating Your Own "Help Desk"
 
-## 👣 Part 1: Freshworks Account Creation & User Setup
+## Part 1: Freshworks Account Creation & User Setup
 
-### ✅ Step 1: Create a Freshdesk Account
+### Step 1: Create a Freshdesk Account
 - Signed up on Freshdesk and explored the dashboard.
 
-### ✅ Step 2: Activated Support Email Address  
-📷 Screenshot:  
+### Step 2: Activated Support Email Address  
+Screenshot:  
 ![Activated Support Email](images/part1.png)
 
-### ✅ Step 3: Added a New Agent  
+### Step 3: Added a New Agent  
 📷 Screenshot:  
-![Added Agent](lab-pics/part2.png)
+![Added Agent](images/part2.png)
 
 ### ✅ Step 4: Changed Admin Account Name  
 📷 Screenshot:  
