@@ -33,7 +33,7 @@ Screenshot:
 ### Step 4: Enabled "Ticket Closed" Notification  
 ### Step 5: Custom Closed Ticket Response  
 Screenshot:  
-![Closed Ticket Auto-Reply](images/part6.png)
+![Closed Ticket Auto-Reply](images/part12.png)
 
 
 ## Part 3: Test Automated Responses
@@ -46,21 +46,20 @@ Screenshot:
 Screenshot:  
 ![Status Set to Pending](images/part8.png)
 
-### ✅ Step 3: Responded to the Client  
-📷 Screenshot:  
+### Step 3: Responded to the Client  
+Screenshot:  
 ![Agent Reply](images/part9.png)
 
-### ✅ Step 4: Closed the Ticket  
-📷 Screenshot:  
+### Step 4: Closed the Ticket  
+Screenshot:  
 ![Ticket Closed](images/part10.png)
 
-### ✅ Step 5: Confirmed Email Receipt  
-📷 Screenshot:  
+### Step 5: Confirmed Email Receipt  
+Screenshot:  
 ![Email Confirmation](images/part11.png)
 
 ---
-
-## ✅ Summary
+## Table of Contents
 
 | Section                  | Status   |
 |--------------------------|----------|
@@ -69,10 +68,4 @@ Screenshot:
 | Agent Configuration      | ✅ Done  |
 | Auto-Reply Setup         | ✅ Done  |
 | Ticket Testing           | ✅ Done  |
-
----
-
-## 📌 Notes
-- All screenshots are located in the `lab-pics/` folder.
-- Markdown used to structure and style this lab submission.
 
