@@ -57,7 +57,7 @@ Used the app to add my tasks for the week:
 | Watch Cybersecurity Webinar   | July 20, 2025  | Medium   | ⏳ Pending  |
 | Grocery Shopping              | July 21, 2025  | Low      | ⏳ Pending  |
 
-![Task Creation Screenshot](images/tasks.png)
+![Task Creation Screenshot](productivity.png)
 
 ---
 
@@ -67,6 +67,12 @@ Used the app to add my tasks for the week:
 - Turned on weekly productivity summary emails
 - Allowed browser push notifications
 
-📧 **Reminder Preview:**
+📧 **Reminder Example:**
 
 ```text
+Good morning, Abiba!  
+Here's your task list for today:
+- Finish Lab Assignment
+- Review Module 3 Notes
+
+Stay focused! 🚀
