@@ -1,142 +1,93 @@
-# Lesson 2: Ticket System Research & Creating Your Own Help Desk
+# Lesson 2: Ticket System Research & Creating Your Own "Help Desk"
 
-## Part 1: Freshworks Account Creation & User Setup
+## 👣 Part 1: Freshworks Account Creation & User Setup
 
-### Step 1: Create a Freshdesk Account
+### ✅ Step 1: Create a Freshdesk Account
+- Signed up on Freshdesk and explored the dashboard.
 
-- Visited [Freshdesk](https://freshdesk.com) and signed up for a free trial.
-- Explored the key sections:
+### ✅ Step 2: Activated Support Email Address  
+📷 Screenshot:  
+![Activated Support Email](images/part1.png)
 
-| Section    | Description                                      |
-|------------|--------------------------------------------------|
-| Dashboard  | Overview of account activity                     |
-| Tickets    | View/manage customer inquiries                   |
-| Contacts   | Store customer information                       |
-| Companies  | Track organizations you support                  |
-| Solutions  | Help articles for customers                      |
-| Forums     | Feedback & community engagement                  |
-| Analytics  | Metrics and reports                              |
+### ✅ Step 3: Added a New Agent  
+📷 Screenshot:  
+![Added Agent](lab-pics/part2.png)
 
-### Step 2: Activate Default Support Email Address
-📷 Screenshot:
-![Activated Support Email](images/support-email.png)
-
-### 🔹 Step 3: Add a New Agent
-
-- Added myself as an agent via **Admin > Agents > Add Agent**
-- Used my email address to create and confirm the agent account.
-
-📷 Screenshot:
-![Agent Added](images/add-agent.png)
-
-### 🔹 Step 4: Rename Administrator Account
-
-- Changed account name to **Administrator** for clarity.
-
-📷 Screenshot:
-![Renamed Admin](images/rename-admin.png)
+### ✅ Step 4: Changed Admin Account Name  
+📷 Screenshot:  
+![Changed Admin Name](lab-pics/part3.png)
 
 ---
 
-## ⚙️ Part 2: Configure Automated Responses
+## 🛠️ Part 2: Configure Automated Responses
 
-### 🔹 Step 1: Enable New Ticket Notification
+### ✅ Step 1: Enabled Notification for "New Ticket Created"
+📷 Screenshot:  
+![Notification Enabled](lab-pics/part4.png)
 
-- Navigated to **Admin > Email Notifications**
-- Enabled “Agent Notification > New Ticket Created”
+### ✅ Step 2: Automatic Reply for New Tickets  
+📷 Screenshot:  
+![New Ticket Auto-Reply](lab-pics/part5.png)
 
-📷 Screenshot:
-![Notification On](images/notification-enabled.png)
+### ✅ Step 3: Personalized Message for Auto-Reply  
+📷 Screenshot:  
+![Personalized Auto-Reply](lab-pics/part6.png)
 
-### 🔹 Step 2: Create Auto Reply for New Tickets
+**Message Sample:**
+> Hello! 👋  
+> We've received your support request and assigned it to one of our agents. We'll get back to you shortly. Thank you for contacting us!
 
-**Default Message:**
-> Thank you for contacting support. We’ve received your ticket and will respond shortly.
+### ✅ Step 4: Enabled "Ticket Closed" Notification  
+📷 Screenshot:  
+![Close Ticket Notification](lab-pics/part7.png)
 
-📷 Screenshot:
-![New Ticket Auto Reply](images/new-ticket-reply.png)
+### ✅ Step 5: Custom Closed Ticket Response  
+📷 Screenshot:  
+![Closed Ticket Auto-Reply](lab-pics/part8.png)
 
-### 🔹 Step 3: Custom Message for New Tickets
-
-**Custom Message:**
-> Hello!  
-> Your ticket has been received. We’re reviewing it and will get back to you within 24 hours.  
-> – Team SparkDesk Support
-
-📷 Screenshot:
-![Custom Reply](images/custom-reply.png)
-
-### 🔹 Step 4: Enable Ticket Closed Notification
-
-- Enabled “Requestor Notification > Agent Closes the Ticket”
-
-📷 Screenshot:
-![Close Ticket Notification](images/close-ticket-notification.png)
-
-### 🔹 Step 5: Unique Response for Closed Tickets
-
-**Custom Message:**
-> Hi there,  
-> We’ve resolved your request and closed the ticket. If you need more help, just reply to this message!  
-> Thanks for choosing us.
-
-📷 Screenshot:
-![Close Ticket Message](images/closed-ticket-message.png)
+**Message Sample:**
+> Hi there! 🎉  
+> Your support ticket has been successfully closed. If you have any other issues, feel free to reach out again. Have a great day!
 
 ---
 
 ## 🧪 Part 3: Test Automated Responses
 
-### 🔹 Step 1: Send a Test Ticket
+### ✅ Step 1: Sent a Test Ticket  
+📷 Screenshot:  
+![Test Ticket Sent](lab-pics/part9.png)
 
-- Sent a test email from a separate email account (e.g., testuser123@mail.com)
+### ✅ Step 2: Updated Ticket Status to Pending  
+📷 Screenshot:  
+![Status Set to Pending](lab-pics/part10.png)
 
-📷 Screenshot:
-![Test Ticket Sent](images/test-ticket.png)
+### ✅ Step 3: Responded to the Client  
+📷 Screenshot:  
+![Agent Reply](lab-pics/part11.png)
 
-### 🔹 Step 2: Update Ticket Status
+### ✅ Step 4: Closed the Ticket  
+📷 Screenshot:  
+![Ticket Closed](lab-pics/part12.png)
 
-- Replied to the ticket as an agent.
-- Set the ticket status to “Pending”.
-
-📷 Screenshot:
-![Ticket Updated](images/ticket-status-pending.png)
-
-### 🔹 Step 3: Reply to Client
-
-**Reply Message:**
-> We’re currently investigating your request and will follow up with more details shortly.
-
-📷 Screenshot:
-![Agent Reply](images/agent-reply.png)
-
-### 🔹 Step 4: Close the Ticket
-
-- Marked the ticket as “Closed”.
-
-📷 Screenshot:
-![Closed Ticket](images/closed-status.png)
-
-### 🔹 Step 5: Confirm Email Receipt
-
-- Checked the client inbox.
-- Received confirmation that ticket was closed.
-
-📷 Screenshot:
-![Ticket Closed Confirmation Email](images/email-confirmation.png)
+### ✅ Step 5: Confirmed Email Receipt  
+📷 Screenshot:  
+![Email Confirmation](lab-pics/part13.png)
 
 ---
 
 ## ✅ Summary
 
-- ✅ Freshdesk account created and agent set up  
-- ✅ Default support email activated  
-- ✅ Automated responses enabled and customized  
-- ✅ Ticket system tested from creation to closure  
-- ✅ Markdown file created and screenshots included  
+| Section                  | Status   |
+|--------------------------|----------|
+| Freshdesk Setup          | ✅ Done  |
+| Support Email Activation | ✅ Done  |
+| Agent Configuration      | ✅ Done  |
+| Auto-Reply Setup         | ✅ Done  |
+| Ticket Testing           | ✅ Done  |
 
 ---
 
-*Created by: [Your Name]*  
-*Date: July 2025*
+## 📌 Notes
+- All screenshots are located in the `lab-pics/` folder.
+- Markdown used to structure and style this lab submission.
 
