@@ -1,4 +1,3 @@
-# Home Network Documentation
 ![Step 1](network/step1.png)
 ![Step 2](network/step2.png)
 ---
